@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d07f49a-d735-4486-a687-67370bb318c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ConvertTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DecodeCiphertextTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindMedianSortedArraysTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FurthestDistanceFromOriginTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetMinDistanceTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntToRomanTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LadderLengthTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LengthOfLongestSubstringTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LongestPalindromeTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumDistanceTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MirrorDistanceTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAtoiTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumBusesToDestinationTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumOfBurgersTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrapTask.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/522dee4c5baa41ab8dd3cde5aa7e3b9c8130/22/a2991b46/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/903066a0710a41e3951a90bf3aee356fcef08/94/43b420c2/DateTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/182ec85d25b779c7118bca2890ca95ae8dd32868c52272faee4a3a304f624b/Assert.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d37356fea9ed307068a31dc8ca3e5c5723187a9f164d0d76fc81bbf46f5/ThrowHelpers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConvertTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DecodeCiphertextTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FindMedianSortedArraysTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FurthestDistanceFromOriginTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GetMinDistanceTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntToRomanTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LadderLengthTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LongestPalindromeTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MirrorDistanceTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyAtoiTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NumBusesToDestinationTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NumOfBurgersTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TrapTask.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3BI3rtoglAPieak7S7Q4jUmtH5o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;e656ee26-219b-4fa7-8dda-8ac3d49e352b.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/maksimemelanov/RiderProjects/LeetCodeTestApp/LeetCodeTestApp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d07f49a-d735-4486-a687-67370bb318c1" name="Changes" comment="" />
+      <created>1774162958953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774162958953</updated>
+      <workItem from="1774162960161" duration="5341000" />
+      <workItem from="1774702913836" duration="14589000" />
+      <workItem from="1775283628116" duration="1798000" />
+      <workItem from="1775287326603" duration="5435000" />
+      <workItem from="1775891514062" duration="6444000" />
+      <workItem from="1776496148037" duration="6640000" />
+      <workItem from="1777100475061" duration="7733000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added some tasks">
+      <option name="closed" value="true" />
+      <created>1774167706888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774167706888</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added some tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some tasks" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/FindMedianSortedArraysTask.cs</url>
+          <line>11</line>
+          <properties documentPath="$PROJECT_DIR$/FindMedianSortedArraysTask.cs" containingFunctionPresentation="Method 'FindMedianSortedArrays'">
+            <startOffsets>
+              <option value="275" />
+            </startOffsets>
+            <endOffsets>
+              <option value="296" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/MinimumDistanceTask.cs</url>
+          <line>8</line>
+          <properties documentPath="$PROJECT_DIR$/MinimumDistanceTask.cs" containingFunctionPresentation="Method 'MinimumDistance'">
+            <startOffsets>
+              <option value="173" />
+            </startOffsets>
+            <endOffsets>
+              <option value="223" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LadderLengthTask.cs</url>
+          <line>21</line>
+          <properties documentPath="$PROJECT_DIR$/LadderLengthTask.cs" containingFunctionPresentation="Method 'LadderLength'">
+            <startOffsets>
+              <option value="769" />
+            </startOffsets>
+            <endOffsets>
+              <option value="808" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
